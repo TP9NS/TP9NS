@@ -124,11 +124,6 @@
 
 ## 📈 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TP9NS&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TP9NS&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TP9NS&theme=react-dark&area=true&hide_border=true" />
 </p>
 
