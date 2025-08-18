@@ -91,7 +91,7 @@
 | **식단 및 루틴 생성 AI 서비스** | Spring Boot, React, Docker, AWS, LangGraph, GitHub Actions | RAG 기반 운동 루틴·식단 추천, Spring Security 인증/인가, CI/CD 자동화 |
 
 > 더 많은 프로젝트는 [Repositories](https://github.com/TP9NS?tab=repositories)에서 확인해 주세요!
-
+</div>
 ---
 
 ## 🎓 Education
