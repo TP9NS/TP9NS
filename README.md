@@ -7,15 +7,13 @@
 <h3 align="center">Hi there,</h3>
 <p align="center">
   안녕하세요! <b>꿈을 찾는 개발자 TP9NS</b>입니다. <br/>
-  오늘의 작은 한 걸음이, 내일의 큰 변화를 만든다고 믿어요. ✨
 </p>
 
 <!-- QUICK LINKS -->
 <p align="center">
-  <a href="https://velog.io/@YOUR_VELOG"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:pshccxx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/TP9NS"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ajtwlstpgns@naver.com"><img alt="Naver Mail" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 </p>
 
 ---
