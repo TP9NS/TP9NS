@@ -11,9 +11,20 @@
 
 <!-- QUICK LINKS -->
 <p align="center">
-  <a href="mailto:pshccxx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/TP9NS"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:ajtwlstpgns@naver.com"><img alt="Naver Mail" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <!-- Gmail: 구글 웹메일 작성 화면 바로 열기 -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pshccxx@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/TP9NS">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- Naver Mail: 네이버 메일 작성 화면 바로 열기 -->
+  <a href="https://mail.naver.com/write?to=ajtwlstpgns@naver.com">
+    <img alt="Naver Mail" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
 </p>
 
 ---
