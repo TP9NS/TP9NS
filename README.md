@@ -78,7 +78,7 @@
 
 
 
----
+
 
 ## 🌟 Projects (Selected)
 
@@ -92,7 +92,7 @@
 
 > 더 많은 프로젝트는 [Repositories](https://github.com/TP9NS?tab=repositories)에서 확인해 주세요!
 </div>
----
+
 
 ## 🎓 Education
 - **안양대학교 (2025.02 졸업)**  
