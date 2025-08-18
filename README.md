@@ -86,11 +86,9 @@
 
 | Project | Tech | Summary |
 |---|---|---|
-| **객체 탐지·추적 무인 계산 시스템** | YOLOv5, Flask, MySQL, React | 카메라로 상품 인식 → 서버에서 상품 정보 조회 → 키오스크로 전송, 전시회 수상 🏆 |
-| **지도 공유 서비스** | Spring Boot, JPA, Thymeleaf | 개인/그룹 지도 관리, 마커·카테고리, 실시간 표시 |
-| **온라인 오목 게임** | Java, WebSocket | 온라인 대전/관전/채팅/복기 기능 |
-
-</div>
+| **객체 탐지·추적 무인 계산 시스템** | YOLOv5, Flask, MySQL, HTML/CSS/JS | 카메라로 상품 인식 및 추적 → 서버 DB 조회 → 키오스크 UI 연동, 전시회 수상 🏆 |
+| **실시간 협업 코딩테스트 플랫폼** | Spring Boot, MariaDB, React, Nginx, Docker, STOMP | 실시간 코드 공유·채팅 기능·코드 채점 기능 |
+| **식단 및 루틴 생성 AI 서비스** | Spring Boot, React, Docker, AWS, LangGraph, GitHub Actions | RAG 기반 운동 루틴·식단 추천, Spring Security 인증/인가, CI/CD 자동화 |
 
 > 더 많은 프로젝트는 [Repositories](https://github.com/TP9NS?tab=repositories)에서 확인해 주세요!
 
@@ -137,7 +135,9 @@
 ---
 
 ## 📨 Contact
-- Email: pshccxx@gmail.com / ajtwlstpgns@naver.com   
+- Email: pshccxx@gmail.com / ajtwlstpgns@naver.com
+## 📂 Portfolio
+- 👉 [Google Slide](https://docs.google.com/presentation/d/1Myjyis3b-adC6wqF4sZ12L7H_Psb9JhEi0vF3J-a3Zs/edit?slide=id.p1#slide=id.p1)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D7B3FF,100:9BE7FF&height=2&section=footer"/>
