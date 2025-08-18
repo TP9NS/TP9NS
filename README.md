@@ -9,25 +9,6 @@
   안녕하세요! <b>꿈을 찾는 개발자 TP9NS</b>입니다. <br/>
 </p>
 
-<!-- QUICK LINKS -->
-<p align="center">
-  <!-- Gmail: 구글 웹메일 작성 화면 바로 열기 -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pshccxx@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/TP9NS">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <!-- Naver Mail: 네이버 메일 작성 화면 바로 열기 -->
-  <a href="https://mail.naver.com/write?to=ajtwlstpgns@naver.com">
-    <img alt="Naver Mail" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 🧰 Tech Stacks
 
@@ -67,9 +48,9 @@
 
 | Project | Tech | Summary |
 |---|---|---|
-| **객체 탐지·추적 무인 계산 시스템** | YOLOv5, Spring Boot, MariaDB, React | 카메라로 상품 인식 → 서버에서 상품 정보 조회 → 키오스크로 전송, 전시회 수상 🏆 |
-| **지도 공유 서비스** | Spring Boot, JPA, Kakao Map, Thymeleaf | 개인/그룹 지도 관리, 마커·카테고리, 실시간 표시 |
-| **온라인 오목 게임** | Spring Boot, WebSocket, React | 온라인 대전/관전/채팅/복기 기능 |
+| **객체 탐지·추적 무인 계산 시스템** | YOLOv5, Flask, MySQL, React | 카메라로 상품 인식 → 서버에서 상품 정보 조회 → 키오스크로 전송, 전시회 수상 🏆 |
+| **지도 공유 서비스** | Spring Boot, JPA, Thymeleaf | 개인/그룹 지도 관리, 마커·카테고리, 실시간 표시 |
+| **온라인 오목 게임** | Java, WebSocket | 온라인 대전/관전/채팅/복기 기능 |
 
 </div>
 
@@ -80,7 +61,6 @@
 ## 🧾 Certifications
 | 자격증 | 발급 기관 |
 | --- | --- |
-| SQLD (SQL Developer) | 한국데이터산업진흥원 |
 | 정보처리산업기사 | 한국산업인력공단 |
 
 ---
