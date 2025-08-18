@@ -78,9 +78,7 @@
 ---
 
 ## 📨 Contact
-- Blog: https://velog.io/@YOUR_VELOG  
-- Email: YOUR_EMAIL@gmail.com  
-- Instagram: https://instagram.com/YOUR_INSTAGRAM  
+- Email: pshccxx@gmail.com / ajtwlstpgns@naver.com   
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D7B3FF,100:9BE7FF&height=2&section=footer"/>
