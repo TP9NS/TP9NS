@@ -13,8 +13,6 @@
 
 ## 🧩 Tech Stack Overview
 
-## 🧩 Tech Stack Overview
-
 <table align="center" style="text-align:center;">
   <tr>
     <th>구분</th>
