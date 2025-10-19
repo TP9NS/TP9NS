@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:9BE7FF,100:D7B3FF&text=TP9NS's%20Git&desc=꿈을%20찾는%20개발자&fontAlign=50&fontAlignY=35&fontSize=42&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:9BE7FF,100:D7B3FF&text=박세훈's%20Git&desc=꿈을%20찾는%20개발자&fontAlign=50&fontAlignY=35&fontSize=42&descAlignY=55&animation=twinkling" />
 </p>
 
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
-  안녕하세요! <b>꿈을 찾는 개발자 TP9NS</b>입니다. <br/>
+  안녕하세요! <b>꿈을 찾는 개발자 박세훈</b>입니다. <br/>
   백엔드와 AI를 중심으로, 서비스를 스스로 설계하고 구현할 수 있는 개발자로 성장 중입니다.
 </p>
 
