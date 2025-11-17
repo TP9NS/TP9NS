@@ -141,12 +141,6 @@
 
 ---
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TP9NS&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
 
 ## 📫 Contact
 - **Email:** pshccxx@gmail.com / ajtwlstpgns@naver.com  
